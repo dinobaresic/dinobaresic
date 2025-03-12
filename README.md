@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a web application using React and Spring Boot to deepen my understanding of these frameworks.👯 I’m looking to collaborate on<br>🤝 I’m looking for help with best practices for integrating REST APIs in a React-Spring Boot setup.<br>🌱 I’m currently learning Node.js to expand my backend development skills and build full-stack applications.<br>💬 Ask me about building interactive UIs, tips for learning web development, or exploring JavaScript frameworks.<br>⚡ Fun fact Java was my first programming language, and it's still my favorite!
+🔭 I’m currently working on building a web application using React and Spring Boot to deepen my understanding of these frameworks.🤝 I’m looking for help with best practices for integrating REST APIs in a React-Spring Boot setup.<br>🌱 I’m currently learning Node.js to expand my backend development skills and build full-stack applications.<br>💬 Ask me about building interactive UIs, tips for learning web development, or exploring JavaScript frameworks.<br>⚡ Fun fact Java was my first programming language, and it's still my favorite!
 
 
 ## 🌐 Socials:
