@@ -46,6 +46,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dinobaresic&theme=dark&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinobaresic&theme=dark&layout=compact&cache_seconds=86400)
 
 
 ---
